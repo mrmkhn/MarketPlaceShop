@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Validator;
 use Modules\Product\Http\Resources\ProductResourceCollection;
 use Modules\Product\Repositories\ProductRepository;
 
-class ProductController extends Controller
+class FilterController extends Controller
 {
     private $productRepository;
     public function __construct(ProductRepository $productRepository)

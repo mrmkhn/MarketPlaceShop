@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73636e36-40e5-4b0d-a963-2869930963ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Models/ProductStore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductStoreRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Category/Repositories/CategoryRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Category/Repositories/CategoryRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Category/traits/hasManyRelations.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Category/traits/hasManyRelations.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../General/Http/Controllers/General/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../General/Http/Controllers/General/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../General/Resources/views/general/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../General/Resources/views/general/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneralMaster/Resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneralMaster/Resources/views/layouts/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneralMaster/Resources/views/layouts/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneralMaster/Resources/views/layouts/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneralMaster/Resources/views/layouts/html-spinner.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneralMaster/Resources/views/layouts/html-spinner.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneralMaster/Resources/views/layouts/js.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneralMaster/Resources/views/layouts/js.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GeneralMaster/Resources/views/layouts/meta.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../GeneralMaster/Resources/views/layouts/meta.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/Migrations/2021_03_03_120930_create_product_stores_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/Migrations/2021_03_03_120930_create_product_stores_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/ProductRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Traits/ProductRelations.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Traits/ProductRelations.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Setting/Http/Controllers/GeneralController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Setting/Http/Controllers/GeneralController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tag/Repositories/TagRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tag/Repositories/TagRepository.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="22BKg0CeLMcOefRROlh73NAhfUT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73636e36-40e5-4b0d-a963-2869930963ad" name="Changes" comment="" />
+      <created>1639305648474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639305648474</updated>
+      <workItem from="1639305649745" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

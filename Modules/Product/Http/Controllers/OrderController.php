@@ -9,7 +9,7 @@ use Modules\Media\Repositories\MediaRepository;
 use Modules\Product\Http\Resources\ProductResourceCollection;
 use Modules\Product\Repositories\ProductRepository;
 
-class ProductController extends Controller
+class OrderController extends Controller
 {
     private $productRepository;
     private $mediaRepository;
